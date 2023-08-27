@@ -1,0 +1,22 @@
+{
+  "name": "yellowcard_assessment_pokemon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Tyrone",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "eslint": "^8.48.0"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "cli-select": "^1.1.2",
+    "got": "^13.0.0",
+    "prompt": "^1.3.0",
+    "terminal-image": "^2.0.0"
+  }
+}
